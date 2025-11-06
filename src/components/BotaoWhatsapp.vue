@@ -1,5 +1,5 @@
 <template>
-  <a class="ancora-whatsapp" href="https://wa.me/+5513991182107">
+  <a class="ancora-whatsapp" href="https://wa.me/+5513981799604">
     <img
       class="icone-whatsapp"
       src="@/assets/icone-whatsapp.png"
